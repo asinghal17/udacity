@@ -15,7 +15,7 @@ The project requires the following libraries to execute:
 
 > For this project, you will pick a dataset. Inspired by Robert, there are a few public datasets from AirBnB available below, but you may also choose a dataset similar to what was used in the lessons, or an entirely different dataset. Using your dataset, you will choose 3 questions you aspire to answer from the data.
 
-I decided to use the data to answer the following questions:
+I decided to use the Seattle Dataset (2016) to answer the following questions to help with Traveling post COVID:
 1. Is there a seasonality trend with Airbnb Seattle listings throughout the year?
 2. What are the type of Rentals available during the Christmas Holiday?
 3. Where are the rentals with the most ammenities during the Christmas Holiday?
