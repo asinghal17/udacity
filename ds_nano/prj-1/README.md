@@ -32,4 +32,4 @@ I decided to use the Seattle Dataset (2016) to answer the following questions to
 
 
 ## Blog
-- Coming Soon
+- [What you need to know before your next trip to Seattle](https://medium.com/@asinghal17/what-you-need-to-know-about-post-covid-travels-to-seattle-821dd8c382c8)
